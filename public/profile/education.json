@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "July 2018 - July 2022",
+            "cardTitle": "BE, Computer Science",
+            "cardSubtitle":"New Horizon College of Engineering",
+            "cardDetailedText": "CGPA - 9.43"
+        },
+        {
+            "title": "May 2018",
+            "cardTitle": "PCMB, Pre-university",
+            "cardSubtitle":"Christ Academy PU College, Bengaluru",
+            "cardDetailedText": "Marks - 92.3%"
+        },
+        {
+            "title": "March 2016",
+            "cardTitle": "Schooling",
+            "cardSubtitle":"Mary Immaculate School, Bengaluru",
+            "cardDetailedText": "Marks - 89.9%"
+        }
+    ]
+}

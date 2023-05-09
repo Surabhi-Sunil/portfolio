@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/surabhi-sunil"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Surabhi-Sunil"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sunil022@umn.edu"
+        }
+    ]
+}

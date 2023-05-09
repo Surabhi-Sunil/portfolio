@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Trainee",
+            "subtitle": "Esko",
+            "workType": "Full-time",
+            "workDescription": [
+                "Convert Wireframes And Figma To Front-End Components Using React And Javascript.",
+                "Contributed Towards Storing, Retrieving, And Analysing Large Volumes Of Data Using Elastic Search.",
+                "Built Practical Microservices In Java To Handle The Data Retrieved And Provide Useful Information To Customers.",
+                "Collaborated With Project Managers And Stakeholders To Understand Their Requirements And Deliver Software Solutions That Meet Their Needs.",
+                "Participated In Code Reviews To Ensure Code Quality, Identify Bugs And Suggest Improvements.",
+                "Contributed Towards Clearing Security Vulnerabilities In The Application To Ensure Software Quality",
+                "Developed And Implemented Rest API Automated Testing And Designed A Framework In Jenkins To Run Them Periodically.",
+                "Involved With Deployment Teams To Create The Ci/Cd Pipeline To Make The Release Process Effortless.",
+                "Use Version Control Tools Such As Git To Manage Changes And Ensure Code Integrity.",
+                "Participate In Agile Software Development Methodologies Such As Scrum And Involved In Daily Stand-Ups, Sprint Reviews, And Retrospectives."
+            ],
+            "dateText": "08/2022 - Present"
+        },
+        {
+            "title": "Software Engineer Trainee Intern",
+            "subtitle": "Esko",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on developing projects in various programming languages such as C++, Java, and JavaScript.",
+                "Developed an e-commerce website using React and Java Springboot where customers could view the product, add them to the cart, and checkout. The admin could restock products.",
+                "Developed a project in C++ using Dijkstra's algorithm to find the shortest distance between the source and destination countries. Based on the distance, rewards would be given to the customer.",
+                "Converted the customer requirements to UML class diagrams for better mapping and relations between classes.",
+                "Researched in Confluence about the products and technologies in the company and documented my learning.",
+                "Gained insight into the corporate culture by participating in scrum events such as daily stand-ups and grooming."
+            ],
+            "dateText": "03/2022 - 07/2022"
+        }
+    ]
+}
