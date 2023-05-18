@@ -2,16 +2,12 @@
     "projects" : [
         {
             "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
+            "title": "My Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Surabhi-Sunil/portfolio"
                 }
             ],
             "tags" : [
@@ -21,129 +17,71 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
-            "links": [
+            "title": "Lane and Object detection in Automated cars",
+            "bodyText": "- The project's objective was to design a model car that could detect the lanes and objects in front of it without human intervention. \n - The model was built and connected to Raspberry Pi and Arduino, which acted as the master and the slave devices. \n- The Arduino was programmed to move the wheels of the model.\n - The images captured from the camera mounted on the model were provided as input to the Raspberry Pi. \n- They were subjected to pre-processing, canny edge detection to detect the curves and edges, hough transform to accurately mark the lines, and linear regression to detect the lanes and blur out the surroundings. \n - The model had an accuracy greater than 90%.",
+            "links":[
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Research Paper",
+                    "href": "https://ieeexplore.ieee.org/document/9742978"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Research",
+                "Data science",
+                "Python"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
+            "title": "Benefit - the Fitness App",
+            "bodyText": "- An android app which allows the user to track both mental and physical wellness by displaying the overall calorie intake, the exercises completed and tracking the meditation hours of an individual.\n - The dashboard page provides the user with a pie chart of the number of workouts completed and daily calorie intake. \n - The user details, such as BMI, will be shown on the personal details page.\n - The application also has a meditation tab that can play music where the user can set the timer for the meditation. \n - The user can also view the exercise and instructions on how to complete it appropriately. \n - The SQLite database was used to store the individual personal details, food intake, and progress.",
             "tags" : [
                 "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Android Studio",
+                "SQLite"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
+            "title": "Routine Tracker for Students and Teachers",
+            "bodyText": "- The website was designed for students and teachers to track their daily routines for class. \n - They could view the class schedules, add notes, attach essential links, and maintain a to-do list within the website.\n - The Professors could mark the attendance of the enrolled candidates.\n - The candidates can also track the attendance for each class which is displayed by the attendance percentage of classes attended to the total number of classes conducted.",
             "tags" : [
                 "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "HTML",
+                "Bootstrap",
+                "CSS",
+                "JavaScript",
+                "Ajax",
+                "PHPMyAdmin Database",
+                "Xampp server"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
+            "title": "Library manager",
+            "bodyText": "- An application that allows the library to track the borrowing/selling of books. \n - The website has two modules: the admin and the customer module.\n - Depending on availability, the customer could buy or borrow the books, view the cart, and checkout after viewing the final price.\n - If the customer borrowed the book, they would receive mail before the last return date as a reminder.\n - The library admin could add, delete, or restock books, view the library members, and view the books borrowed with the return date.",
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "MySQL",
+                "Tkinter GUI",
+                "SMTP lib"
+            ]
+        },
+        {
+            "title": "E-care for Public",
+            "bodyText": "- The project's main objective was to improve the patients' interaction with hospitals and to efficiently manage the data. \n - This application would allow patients to connect to hospitals, book beds, get appointments with the doctor, and view their medical history.\n - The doctors could view the patients assigned for a particular day and provide diagnosis and prescriptions.\n - The patient's details were stored in a separate file, and each time the patient visited, the patient's details were appended to the same file.\n - The patient was also sent an email as a reminder for the appointment. \n - The files of the patient are stored in the system's memory.",
+            "tags" : [
+                "Java",
+                "Apache Derby",
+                "OOPs concepts",
+                "Reading from and writing to files",
+                "Cron job"
+            ]
+        },
+        {
+            "title": "Encryption and Decryption",
+            "bodyText": "- The project aims to secure the data and message transfer from person to person using an encryption algorithm.\n This project allows the user to enter a message which will be encrypted and stored.\n - The authorized person would be able to read the received message in its original format after logging in and providing the password to decrypt the message. \n - Encryption and decryption are carried out with the help of the caesar cipher algorithm.",
+            "tags" : [
+                "C",
+                "Data structures",
+                "Ceaser Cipher"
             ]
         }
     ]

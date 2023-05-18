@@ -1,5 +1,5 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "These are some of the major languages, technologies, tools and platforms I have worked with:",
     "skills": [{
      
             "title": "Languages & Databases",
@@ -24,6 +24,18 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "Typescript"
                 }
         ]},
         {
@@ -40,6 +52,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS Cloud"
                 }
             ]
         },
@@ -55,8 +71,8 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
                 }
             ]
     }
