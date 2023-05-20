@@ -3,11 +3,15 @@
         {
             "image" : "images/projects/portfolio-poster.png",
             "title": "My Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.",
             "links": [
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Surabhi-Sunil/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://portfolio-github-io-rho.vercel.app/"
                 }
             ],
             "tags" : [
