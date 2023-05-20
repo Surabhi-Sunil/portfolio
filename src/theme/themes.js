@@ -1,45 +1,24 @@
-export const lightTheme = {
-  background: '#fff',
-  color: '#121212',
-  accentColor: '#3D84C6',
+// eslint-disable-next-line import/prefer-default-export
+export const darkTheme = {
+  background: '#e8dcd4',
+  color: '#141414',
+  accentColor: '#787c6c',
   chronoTheme: {
-    cardBgColor: 'white',
-    cardForeColor: 'black',
-    titleColor: 'white',
+    cardBgColor: '#e8dcd4',
+    cardForeColor: '#141414',
+    titleColor: '#ba9d87',
   },
-  timelineLineColor: '#ccc',
-  cardBackground: '#fff',
-  cardFooterBackground: '#f7f7f7',
-  cardBorderColor: '#00000020',
+  timelineLineColor: '#787c6c',
+  cardBackground: '#e8dcd4',
+  cardFooterBackground: '#e0c4b4',
+  cardBorderColor: '#e0c4b4',
   navbarTheme: {
-    linkColor: '#dedede',
-    linkHoverColor: '#fefefe',
-    linkActiveColor: '#fefefe',
+    linkColor: '#141414',
+    linkHoverColor: '#141414',
+    linkActiveColor: '#787c6c',
   },
   bsPrimaryVariant: 'light',
   bsSecondaryVariant: 'dark',
-  socialIconBgColor: '#121212',
-};
-
-export const darkTheme = {
-  background: '#121212',
-  color: '#eee',
-  accentColor: '#3D84C6',
-  chronoTheme: {
-    cardBgColor: '#1B1B1B',
-    cardForeColor: '#eee',
-    titleColor: 'black',
-  },
-  timelineLineColor: '#444',
-  cardBackground: '#060606',
-  cardFooterBackground: '#181818',
-  cardBorderColor: '#ffffff20',
-  navbarTheme: {
-    linkColor: '#dedede',
-    linkHoverColor: '#fefefe',
-    linkActiveColor: '#fefefe',
-  },
-  bsPrimaryVariant: 'dark',
-  bsSecondaryVariant: 'light',
-  socialIconBgColor: '#fefefe',
+  textColor: '#141414',
+  socialIconBgColor: '#141414',
 };
