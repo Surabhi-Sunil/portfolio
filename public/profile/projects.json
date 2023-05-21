@@ -87,6 +87,25 @@
                 "Data structures",
                 "Ceaser Cipher"
             ]
+        },
+        {
+            "title": "Travel Rewards",
+            "bodyText": "- The project aims to find the shortest path using the djiktra's algorithm and provide travel rewards based on the distance. \n - The user will be able to go from source to destination and gain points. \n - The user can redeem points during the next travel.",
+            "tags" : [
+                "C++",
+                "Algorithms",
+                "Dijkstra's"
+            ]
+        },
+        {
+            "title": "Vending Machine",
+            "bodyText": "- The project allows the user to check the fruits and vegetables available.\n - Can add products to cart and checkout. \n - The admin can add more products to stalk. \n - The fruits that are expired will be replaced by admin.",
+            "tags" : [
+                "Java",
+                "Springboot",
+                "React",
+                "SQLite"
+            ]
         }
     ]
 }
