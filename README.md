@@ -1,5 +1,5 @@
-My Portfolio website\n
-I have used vercel to host the website (Its very easy to use for deployments + Its free of cost)
+My Portfolio website
+<br/> I have used vercel to host the website (Its very easy to use for deployments + Its free of cost)
 
 ![image](https://github.com/Surabhi-Sunil/SurabhiSunil/assets/130157407/d90c829d-dd43-4501-b17c-2e094954ada8)
 
