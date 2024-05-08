@@ -1,27 +1,8 @@
 {
     "projects": [
+        
         {
-            "image": "images/projects/portfolio-poster.png",
-            "title": "My Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Surabhi-Sunil/portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://portfolio-github-io-rho.vercel.app/"
-                }
-            ],
-            "tags": [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "image": "images/projects/Earthquake.png",
+            "image": "images/projects/case study repo.png",
             "title": "Case Study Repository",
             "bodyText": "- Developed a full-stack, searchable case study repository for the University of Minnesota's School of Dentistry using the MERN stack (Express.js, React, Node.js) and MySQL.\n - Implemented course-based tagging within the repository, enabling faculty to effectively categorize and retrieve case studies relevant to specific courses.\n - Enhanced search functionality with optimized SQL queries, significantly improving data retrieval speed and user experience.\n - Facilitated knowledge sharing among faculty members, contributing to an improved educational environment through efficient access to educational resources",
                    "links": [
@@ -57,21 +38,6 @@
             ]
         },
         {
-            "title": "Lane and Object detection in Automated cars",
-            "bodyText": "- The project's objective was to design a model car that could detect the lanes and objects in front of it without human intervention. \n - The model was built and connected to Raspberry Pi and Arduino, which acted as the master and the slave devices. \n- The Arduino was programmed to move the wheels of the model.\n - The images captured from the camera mounted on the model were provided as input to the Raspberry Pi. \n- They were subjected to pre-processing, canny edge detection to detect the curves and edges, hough transform to accurately mark the lines, and linear regression to detect the lanes and blur out the surroundings. \n - The model had an accuracy greater than 90%.",
-            "links": [
-                {
-                    "text": "Research Paper",
-                    "href": "https://ieeexplore.ieee.org/document/9742978"
-                }
-            ],
-            "tags": [
-                "Research",
-                "Data science",
-                "Python"
-            ]
-        },
-        {
             "title": "Benefit - the Fitness App",
             "bodyText": "- An android app which allows the user to track both mental and physical wellness by displaying the overall calorie intake, the exercises completed and tracking the meditation hours of an individual.\n - The dashboard page provides the user with a pie chart of the number of workouts completed and daily calorie intake. \n - The user details, such as BMI, will be shown on the personal details page.\n - The application also has a meditation tab that can play music where the user can set the timer for the meditation. \n - The user can also view the exercise and instructions on how to complete it appropriately. \n - The SQLite database was used to store the individual personal details, food intake, and progress.",
             "tags": [
@@ -94,6 +60,42 @@
                 "Xampp server"
             ]
         },
+        {
+            "title": "Lane and Object detection in Automated cars",
+            "bodyText": "- The project's objective was to design a model car that could detect the lanes and objects in front of it without human intervention. \n - The model was built and connected to Raspberry Pi and Arduino, which acted as the master and the slave devices. \n- The Arduino was programmed to move the wheels of the model.\n - The images captured from the camera mounted on the model were provided as input to the Raspberry Pi. \n- They were subjected to pre-processing, canny edge detection to detect the curves and edges, hough transform to accurately mark the lines, and linear regression to detect the lanes and blur out the surroundings. \n - The model had an accuracy greater than 90%.",
+            "links": [
+                {
+                    "text": "Research Paper",
+                    "href": "https://ieeexplore.ieee.org/document/9742978"
+                }
+            ],
+            "tags": [
+                "Research",
+                "Data science",
+                "Python"
+            ]
+        },
+        {
+            "image": "images/projects/portfolio-poster.png",
+            "title": "My Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Surabhi-Sunil/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://portfolio-github-io-rho.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        
         {
             "title": "Library manager",
             "bodyText": "- An application that allows the library to track the borrowing/selling of books. \n - The website has two modules: the admin and the customer module.\n - Depending on availability, the customer could buy or borrow the books, view the cart, and checkout after viewing the final price.\n - If the customer borrowed the book, they would receive mail before the last return date as a reminder.\n - The library admin could add, delete, or restock books, view the library members, and view the books borrowed with the return date.",
