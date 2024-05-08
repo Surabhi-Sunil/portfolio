@@ -1,10 +1,16 @@
 {
     "education":[
         {
+            "title": "Sept 2023 - May 2025",
+            "cardTitle": "MS, Data Science",
+            "cardSubtitle":"University of Minnesota, Twin cities",
+            "cardDetailedText": "CGPA - 3.63"
+        },
+        {
             "title": "July 2018 - July 2022",
             "cardTitle": "BE, Computer Science",
-            "cardSubtitle":"New Horizon College of Engineering",
-            "cardDetailedText": "CGPA - 9.43"
+            "cardSubtitle":"New Horizon College of Engineering, Bengaluru",
+            "cardDetailedText": "CGPA - 3.81"
         },
         {
             "title": "May 2018",

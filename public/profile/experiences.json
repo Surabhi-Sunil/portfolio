@@ -1,22 +1,30 @@
 {
     "experiences": [
         {
+            "title": "Teaching Assistant",
+            "subtitle": "AEM-4601, University of Minnesota",
+            "workType": "Part-time",
+            "workDescription": [
+                "Evaluate, grade and provide feedback on student submissions.",
+                "Lead lab sessions, ensuring student engagement and safety.",
+                "Offer academic support during scheduled office hours.",
+                "Prepare and organize lab materials and equipment prior to sessions to ensure a smooth and productive learning environment."
+            ],
+            "dateText": "01/2024 - 05/2024"
+        },
+        {
             "title": "Software Engineer Trainee",
             "subtitle": "Esko",
             "workType": "Full-time",
             "workDescription": [
-                "Convert Wireframes And Figma To Front-End Components Using React And Javascript.",
-                "Contributed Towards Storing, Retrieving, And Analysing Large Volumes Of Data Using Elastic Search.",
-                "Built Practical Microservices In Java To Handle The Data Retrieved And Provide Useful Information To Customers.",
-                "Collaborated With Project Managers And Stakeholders To Understand Their Requirements And Deliver Software Solutions That Meet Their Needs.",
-                "Participated In Code Reviews To Ensure Code Quality, Identify Bugs And Suggest Improvements.",
-                "Contributed Towards Clearing Security Vulnerabilities In The Application To Ensure Software Quality",
-                "Developed And Implemented Rest API Automated Testing And Designed A Framework In Jenkins To Run Them Periodically.",
-                "Involved With Deployment Teams To Create The Ci/Cd Pipeline To Make The Release Process Effortless.",
-                "Use Version Control Tools Such As Git To Manage Changes And Ensure Code Integrity.",
-                "Participate In Agile Software Development Methodologies Such As Scrum And Involved In Daily Stand-Ups, Sprint Reviews, And Retrospectives."
+                "Developed responsive React components from Figma designs, significantly enhancing the user interface and experience for over 2000 users, aligning with fast-paced software delivery expectations.",
+                "Engineered Java Spring Boot microservices to streamline real-time data retrieval from Elasticsearch, boosting frontend data display efficiency by over 30% and significantly enhancing user interaction and system performance.",      
+                "Led a Jenkins-based initiative to automate REST API testing, which reduced testing time by 90% and enhanced code quality by 45%, showcasing my ability to quickly adapt and improve software testing processes.",
+                "Directed the resolution of 85% of identified security vulnerabilities, significantly bolstering software security and reliability, a critical aspect of maintaining system health in data centers.",
+                "Participate In Agile Software Development Methodologies Such As Scrum And Involved In Daily Stand-Ups, Sprint Reviews, And Retrospectives.",
+                "Recognized with an award in 2023 for exceptional performance and dedication, underlining my commitment to high-quality, timely project executions and contributions to product enhancements."
             ],
-            "dateText": "08/2022 - Present"
+            "dateText": "08/2022 - 07/2023"
         },
         {
             "title": "Software Engineer Trainee Intern",
